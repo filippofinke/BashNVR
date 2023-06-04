@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/filippofinke/BashNVR">
-    <img src="assets/robot.png" alt="Logo" height="100">
+    <img width="100px" src="https://github.com/filippofinke/BashNVR/assets/37296364/1334bf75-13c1-425c-b3c3-a4e962805b48">
   </a>
 
   <br />
